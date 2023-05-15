@@ -1,0 +1,69 @@
+version: '3'
+
+vars:
+  INTEGRATION_GRAPH_IRI: http://aksw.org/
+
+  WORKING_DIRECTORY: '{{.github.workspace | default .PWD}}'
+
+  CMEMC_VERSION: v22.2
+  CMEMC_IMAGE: docker-registry.eccenca.com/eccenca-cmemc:{{.CMEMC_VERSION}}
+  CMEMC_CONFIG: cmemc.ini
+  CMEMC_CONFIG_ID: aksw.eccenca.dev
+  CMEMC_DOCKER: docker run -i --rm -v {{.WORKING_DIRECTORY}}:/data -v {{.WORKING_DIRECTORY}}/{{.CMEMC_CONFIG}}:/{{.CMEMC_CONFIG}} {{.CMEMC_IMAGE}} -c {{.CMEMC_CONFIG_ID}} --config-file /{{.CMEMC_CONFIG}}
+  CMEMC: '{{.CMEMC | default .CMEMC_DOCKER}}'
+
+  GIT_USER_NAME: aksw.org Assets Update Bot 🤖
+  GIT_USER_EMAIL: aksw-org-assets-update-bot@aksw.org
+  GIT_COMMIT_MESSAGE: Update from Assets Manager
+
+tasks:
+
+  default:
+    summary: List all tasks
+    silent: true
+    cmds:
+      - task --list
+
+  ci:
+    desc: Entry Point for the CI
+    cmds:
+      - task: cmemc:env-overwrite
+        vars: { CONFIG_KEYS: 'OAUTH_CLIENT_ID OAUTH_CLIENT_SECRET' }
+      - task: fetch
+      - task: track:commit-and-push
+
+  fetch:
+    desc: Get the program graph from cmem
+    cmds:
+      - |
+        mkdir -p assets
+        {{.CMEMC}} query execute --accept application/json -p graph {{.INTEGRATION_GRAPH_IRI}} queries/foaf_depiction.rq.tpl |\
+        jq -r ".results.bindings[].url.value" |\
+        while read -r url
+        do
+          md5=($(echo -n $url | md5sum -))
+          if [ -f assets/$md5 ]
+          then
+            echo "file assets/$md5 exists already skip $url"
+            continue
+          fi
+          echo "file assets/$md5: download $url"
+          curl -L -o assets/$md5 $url
+        done
+
+  track:commit-and-push:
+    desc: Commit and push all changes made to the directories
+    cmds:
+      - |
+        echo "commit-id-old=$(git rev-parse HEAD)" >> {{.GITHUB_OUTPUT}}
+        git add assets
+        git -c user.name="{{.GIT_USER_NAME}}" -c user.email="{{.GIT_USER_EMAIL}}" commit -m "{{.GIT_COMMIT_MESSAGE}}" || echo ""
+        echo "commit-id-new=$(git rev-parse HEAD)" >> {{.GITHUB_OUTPUT}}
+        git push || echo ""
+
+  cmemc:env-overwrite:
+    desc: A helper task to overwrite the cmemc config variables in a CI
+    cmds:
+      - python ./tools/cmemc_env_overwrite.py {{.CMEMC_CONFIG}} {{.CMEMC_CONFIG_ID}} {{.CONFIG_KEYS}}
+    status:
+      - '[ ${CMEMC_ENV_OVERWRITE} != "True" ]'

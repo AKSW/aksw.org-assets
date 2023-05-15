@@ -1,0 +1,30 @@
+name: aksw.org Assets Update
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron:  '30 * * * *'
+
+env:
+  BRANCH: main
+  OAUTH_CLIENT_ID: ${{ secrets.CMEM_OAUTH_CLIENT_ID }}
+  OAUTH_CLIENT_SECRET: ${{ secrets.CMEM_OAUTH_CLIENT_SECRET }}
+  CMEMC_ENV_OVERWRITE: "True"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: arduino/setup-task@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v3
+      with:
+        ref: ${{ env.BRANCH }}
+    - name: Install Prerequisites
+      run: sudo apt-get -y install jq
+    - name: "⚙️ Run CI Tasks"
+      id: ci_step
+      run: task ci
