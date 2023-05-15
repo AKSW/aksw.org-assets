@@ -1,0 +1,347 @@
+
+
+<!DOCTYPE html>
+<html lang="da" class="nexus-font-support">
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="nositelinkssearchbox"/>
+    <title>Denne side findes ikke &mdash; Aalborg Universitets forskningsportal</title>
+    
+    
+    
+
+<meta property="og:site_name" content="Aalborg Universitets forskningsportal">
+
+
+
+<meta property="og:url" content="https://vbn.elsevierpure.com/error">
+<meta property="og:locale" content="da_DK">
+
+
+    <meta property="og:type" content="website">
+
+
+
+    
+        <meta property="og:image" content="https://vbn.elsevierpure.com/skin/headerImage/">
+    
+
+
+
+
+
+    <link rel="stylesheet" href="/assets/application-4fe03d719ee3efd34ec82aa15a37f2b1.css"/>
+    <!-- OneTrust Cookies Consent Notice start -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="66aa5af0-442e-47ed-bbda-99473ed62ecb" data-document-language="true"></script>
+<script type="text/javascript">
+    function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+    
+        <link rel="shortcut icon" href="/skin/favIcon/"/>
+    
+    <link href="/skin/css/" rel="stylesheet"/>
+    
+    <script src="/skin/script/" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/application-a98dc5cca8a3ec33d317cb2c94895f5f.js" ></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/assets/html5shiv.min-2536f8ce6b48e154746d17e7c5c46694.js" ></script>
+    <script type="text/javascript" src="/assets/respond.min-df17f4665472bc6aae284663eaabde24.js" ></script>
+    <![endif]-->
+    
+            
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2757738-1" class="optanon-category-2" type="text/plain"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2757738-1', {'cookie_domain' : document.location.hostname, 'anonymize_ip': true });
+</script><!-- Google Analytics: No account ID (G) found -->
+    <script src="//assets.adobedtm.com/4a848ae9611a/ea83f870454d/launch-f4b0b5f0c761-staging.min.js" onload="trackPageLoad()" class="optanon-category-2" type="text/plain"></script>
+    
+    <!-- Pendo: Disabled -->
+</head>
+
+<body class="">
+<div id="aria-polite" aria-live="polite"></div>
+
+<div id="aria-assertive" aria-live="assertive"></div>
+
+<nav aria-label="Hop til indhold" class="skip-content">
+    <ul>
+        <li>
+            <a href="#main-navigation" class="sr-only sr-only-focusable">Spring til hovednavigation</a>
+        </li>
+        
+            <li>
+                <a href="#main-search" class="sr-only sr-only-focusable">Spring til søgning</a>
+            </li>
+        
+        <li>
+            <a href="#main-content" class="sr-only sr-only-focusable">Spring til hovedindhold</a>
+
+            
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+    <header class="header" id="page-header">
+        <div class="primary with-right-background ">
+            <div class="container">
+                
+                    <div class="primary-right-background clearfix">
+                
+                <a href="/da/" class="logo">
+                    
+                        <span class="sr-only">Aalborg Universitets forskningsportal Hjem</span>
+                        <img src="/skin/headerImage/" alt="Aalborg Universitets forskningsportal Logo"/>
+                    
+                </a>
+                
+                    <ul class="header-tools ">
+                        
+                        
+                            <li class="language-dropdown dropdown">
+                                <button data-toggle="dropdown" class="language_btn" aria-label="Vælg sprog" aria-expanded="false">
+                                    <i class="icon icon-globe" aria-hidden="true"></i></button>
+
+                                <div class="dropdown-container">
+                                    <ul class='language-selector dropdown-menu'><li class='selected'><a href="/files-asset/286568626/Importeret+foto.jpg/da/" >Dansk</a></li><li><a href="/files-asset/286568626/Importeret+foto.jpg/en/" >English</a></li></ul>
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+                
+                
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+            <div class="subMenu">
+                <div class="secondary">
+                    <div class="container">
+                        <nav id="main-navigation" aria-label="Hovednavigation" class="content-navigation three-third">
+                            <ul class="has-overflow-navigation" data-value="Mere" role="menubar">
+                                <li class="" role="none">
+                                    <a href="/da/" role="menuitem" tabindex="-1">Hjem</a>
+                                </li>
+
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/persons/"><span>Profiler</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/projects/"><span>Projekter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/publications/"><span>Publikationer</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/activities/"><span>Aktiviteter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/organisations/"><span>Forskningsenheder</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/equipments/"><span>Faciliteter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/clippings/"><span>Presse/medier</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/prizes/"><span>Priser</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/datasets/"><span>Forskningsdatasæt</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/impacts/"><span>Impacts</span></a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+                        
+                            <div class="header-search">
+                                
+<form action="/da/searchAll/index/" method="get"
+      class="search-form" id="search-everything">
+
+    <div class="global-search-wrapper">
+        <div class="global-search mini">
+            <div class="field-button-wrapper">
+                <div class="search-cell search-field">
+                    <label for="main-search" class="sr-only">Søg efter ekspertise, navn eller tilknytning</label>
+                    <input id="main-search" class="search-field" value="" name="search"
+                           placeholder="Søg…"/>
+                </div>
+
+                <div class="search-submit">
+                    <button type="submit" aria-label="Søgning">
+                        <i class="icon icon-magnifying-glass" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(function () {
+        var searchForm = $("#search-everything");
+        var searchField = $(".search-field", searchForm);
+        searchForm.on("submit", function () {
+            var field = searchField.find("input");
+            var searchString = field.val();
+
+            // No enter key submit nothing :-)
+            if (!searchString) return false;
+
+            if (searchString.length >= 200) {
+                searchForm.attr("method", "post");
+                searchForm.attr("action", "/da/concepts/copypaste/");
+                field.attr("name", "text");
+            }
+        });
+    });
+</script>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+
+    <main id="page-content">
+        
+            <div class="container">
+                <div class="error-page error-404">
+                    <section>
+                        <div>
+                            <div class="error-404-layout">
+                                <header>
+                                    <h3 class="title">
+                                        Siden blev ikke fundet
+                                    </h3>
+                                    <p>Beklager, vi kan ikke finde den side, du anmodede om.</p>
+                                    <p>Den kan være blevet flyttet eller eksisterer måske ikke længere, eller der er fejl i det anvendte link.
+                                </header>
+                            </div>
+                            <div class="error-404-layout">
+                                <h3>Kom tilbage på sporet</h3>
+                                <ul class="arrow-list">
+                                    <li><a href="/da/">Tag mig til hjemmesiden</a></li>
+                                    <li><a href="#" onclick="return window.history.back();">Tag mig til den forrige side</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        
+    </main>
+
+    <footer id="page-footer" class="main-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="content-navigation three-third">
+                    <div dir="ltr" class="footer-columns">
+                        
+                            <div class="footer-column">
+                                <div class="footer-icon">
+                                    <img src="/skin/footerIcon/" alt="Aalborg Universitets forskningsportal Logo"/>
+                                </div>
+                            </div>
+                        
+                        <div class="footer-column">
+                            <p>
+                                Drevet af <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure">Pure</a>, <a href="http://www.scopus.com/">Scopus</a> & <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/elsevier-fingerprint-engine">Elsevier Fingerprint Engine&trade;</a> &copy; 2023 <a href="http://www.elsevier.com">Elsevier B.V.</a>
+                            </p>
+
+                            <p>Vi bruger cookies til at hjælpe med at tilvejebringe og forbedre vores service og tilpasse indhold. Ved at fortsætte accepterer du <a href="/da/about/cookies/">brug af cookies</a></p>
+                            <p><button id="ot-sdk-btn" class="ot-sdk-show-settings"></button></p>
+                            
+                                <p><a href="https://vbn.aau.dk/admin/workspace.xhtml">Log ind i Pure</a></p>
+                            
+                            <p></p>
+                        </div>
+
+                        <div class="footer-column">
+                            
+                                <p><a href="https://www.team.vbn.aau.dk/gdpr-copyright/" target="_blank">Aalborg Universitets forskningsportal databeskyttelsespolitik</a></p>
+                            
+                            
+                                <p><a href="/da/web-accessibility/" rel="nofollow" target="_blank">Om webtilgængelighed</a></p>
+                            
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                
+                            </p>
+                        </div>
+
+                        
+                            <div class="footer-column">
+                                
+                                    
+                                        <p><a href="mailto:vbn@aub.aau.dk"> Kontakt os</a></p>
+                                    
+                                
+
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-to-top">
+            <a href="#" class="back-to-top" aria-label="Gå til toppen"><i class="icon icon-up-open"></i></a>
+        </div>
+    </footer>
+
+
+    <script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+    
+
+    
+
+    <script type="text/javascript">
+try {(function() {
+window.pageData = {"page":{"businessUnit":"ELS:RP:ST","cmsName":"Pure Portal","environment":"dev","language":"da","loadTimestamp":"1684152355051","name":"pure portal:files:get","noTracking":"false","productName":"PR","type":"NP-GP"},"visitor":{"accountId":"","accountName":"pr:Aalborg Universitet","ipAddress":"","accessType":"pr:ANON_GUEST","loginStatus":"anonymous"}};})();} catch(e) {if(console) { console.log(e) } }</script>
+    <script>function trackPageLoad(){try {(function() {
+if(pageData && pageDataTracker) { pageDataTracker.trackPageLoad(); }
+})();} catch(e) {if(console) { console.log(e) } }}</script>
+
+
+</body>
+</html>
