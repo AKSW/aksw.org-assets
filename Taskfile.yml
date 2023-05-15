@@ -48,7 +48,7 @@ tasks:
             continue
           fi
           echo "file assets/$md5: download $url"
-          curl -L -o assets/$md5 $url || echo "file assets/$md5: failed"
+          curl -L -o assets/$md5 "$url" || echo "file assets/$md5: failed"
         done
 
   track:commit-and-push:
