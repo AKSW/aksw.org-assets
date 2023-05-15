@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.030296mm"
+   height="51.029148mm"
+   viewBox="0 0 37.030296 51.029148"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="placeholder_person.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9704153"
+     inkscape:cx="54.810779"
+     inkscape:cy="67.498459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-91.267854,-70.409023)">
+    <path
+       id="rect621"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:1.6"
+       d="m 96.286154,99.677743 c -2.78029,0 -5.0183,2.238017 -5.0183,5.018297 v 11.72383 c 0,2.78029 2.23801,5.0183 5.0183,5.0183 h 26.993186 c 2.78028,0 5.01881,-2.23801 5.01881,-5.0183 v -11.72383 c 0,-2.78028 -2.23853,-5.018297 -5.01881,-5.018297 h -0.17725 A 16.775532,16.775532 0 0 1 109.783,106.26907 16.775532,16.775532 0 0 1 96.463924,99.677743 Z" />
+    <circle
+       style="fill:#cccccc;stroke-width:1.6"
+       id="path234"
+       cx="109.783"
+       cy="87.184555"
+       r="16.775532" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+       x="103.21286"
+       y="81.2743"
+       id="text344"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="103.21286"
+         y="81.2743"
+         id="tspan346">foaf:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:0.3;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:-0.902229px;text-anchor:middle;stroke-width:0.264583"
+       x="109.26678"
+       y="88.914337"
+       id="text356"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan556"
+         x="109.26678"
+         y="88.914337">P<tspan
+   style="fill:#ffffff"
+   id="tspan567">e</tspan>rs<tspan
+   style="fill:#ffffff"
+   id="tspan565">o</tspan>n</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="109.26678"
+         y="93.013939"
+         id="tspan516">,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="108.81567"
+         y="97.113541"
+         id="tspan558">_</tspan></text>
+  </g>
+</svg>
