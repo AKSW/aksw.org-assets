@@ -42,13 +42,13 @@ tasks:
         while read -r url
         do
           md5=($(echo -n $url | md5sum -))
-          if [ -f assets/$md5 ]
-          then
-            echo "file assets/$md5 exists already skip $url"
-            continue
-          fi
           echo "file assets/$md5: download $url"
-          curl -L -o assets/$md5 "$url" || echo "file assets/$md5: failed"
+          if curl -S -s -f -L -o assets/$md5.tmp "$url"; then
+            mv assets/$md5.tmp assets/$md5
+          else
+            echo "file assets/$md5: failed"
+            rm -f assets/$md5.tmp 2>/dev/null
+          fi
         done
 
   track:commit-and-push:
