@@ -43,7 +43,8 @@ tasks:
         do
           md5=($(echo -n $url | md5sum -))
           echo "file assets/$md5: download $url"
-          if curl -S -s -f -L -o assets/$md5.tmp "$url"; then
+          echo "$url" | hexdump -C || :
+          if curl -v -S -s -f -L -o assets/$md5.tmp "$url"; then
             mv assets/$md5.tmp assets/$md5
           else
             echo "file assets/$md5: failed"
