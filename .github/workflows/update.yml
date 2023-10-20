@@ -24,7 +24,14 @@ jobs:
       with:
         ref: ${{ env.BRANCH }}
     - name: Install Prerequisites
-      run: sudo apt-get -y install jq
+      run: |
+        RELEASE=$(lsb_release -rs)
+        echo "deb http://download.opensuse.org/repositories/home:/ailin_nemui:/Ubuntu:/curl/xUbuntu_$RELEASE/ /" | sudo tee /etc/apt/sources.list.d/home:ailin_nemui:Ubuntu:curl.list
+        curl -fsSL https://download.opensuse.org/repositories/home:ailin_nemui:Ubuntu:curl/xUbuntu_$RELEASE/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ailin_nemui_Ubuntu_curl.gpg > /dev/null
+        sudo apt -q update
+        sudo apt -q install curl libcurl4
+        sudo apt-get -y install jq
+        curl --version
     - name: "⚙️ Run CI Tasks"
       id: ci_step
       run: task ci
