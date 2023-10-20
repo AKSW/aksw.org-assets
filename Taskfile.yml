@@ -36,6 +36,10 @@ tasks:
     desc: Get the program graph from cmem
     cmds:
       - |
+        if [ "$(curl --version|awk '{print $2;exit}'|cut -d. -f1)" -lt 8 ]; then
+          echo curl too old for IRI support
+          exit 1
+        fi
         mkdir -p assets
         {{.CMEMC}} query execute --accept application/json -p graph {{.INTEGRATION_GRAPH_IRI}} queries/foaf_depiction.rq.tpl |\
         jq -r ".results.bindings[].url.value" |\
@@ -43,8 +47,7 @@ tasks:
         do
           md5=($(echo -n $url | md5sum -))
           echo "file assets/$md5: download $url"
-          echo "$url" | hexdump -C || :
-          if curl -v -S -s -f -L -o assets/$md5.tmp "$url"; then
+          if curl -S -s -f -L -o assets/$md5.tmp "$url"; then
             mv assets/$md5.tmp assets/$md5
           else
             echo "file assets/$md5: failed"
