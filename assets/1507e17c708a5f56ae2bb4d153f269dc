@@ -9,7 +9,7 @@
 
 	This website is powered by TYPO3 - inspiring people to share!
 	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
-	TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
 	Information and contribution at https://typo3.org/
 -->
 
@@ -460,7 +460,7 @@
 
 <footer>
     <div class="container">
-        <div><ul class="footer-links"><li>Copyright Hasso-Plattner-Institut 2023</li><li><a href="/impressum.html"><span>Impressum</span></a></li><li><a href="/datenschutz.html"><span>Datenschutz</span></a></li><li><a href="/agbs.html"><span>AGBs</span></a></li><li><a href="/widerruf.html"><span>Widerruf</span></a></li><li><a href="/hausordnung.html"><span>Hausordnung</span></a></li><li><a href="/kontakt.html" target="https://hpi.de/das-hpi/organisation/kontakt.html"><span>Kontakt</span></a></li><li><a href="/suche.html"><span>Suche</span></a></li><li><a href="/sitemap.html"><span>Sitemap</span></a></li><li><a href="https://shop-hpi.de/"><span>Shop</span></a></li></ul></div>
+        <div><ul class="footer-links"><li>Copyright Hasso-Plattner-Institut 2024</li><li><a href="/impressum.html"><span>Impressum</span></a></li><li><a href="/datenschutz.html"><span>Datenschutz</span></a></li><li><a href="/agbs.html"><span>AGBs</span></a></li><li><a href="/widerruf.html"><span>Widerruf</span></a></li><li><a href="/hausordnung.html"><span>Hausordnung</span></a></li><li><a href="/kontakt.html" target="https://hpi.de/das-hpi/organisation/kontakt.html"><span>Kontakt</span></a></li><li><a href="/suche.html"><span>Suche</span></a></li><li><a href="/sitemap.html"><span>Sitemap</span></a></li><li><a href="https://shop-hpi.de/"><span>Shop</span></a></li></ul></div>
     </div>
 </footer>
 
