@@ -27,7 +27,7 @@ div.mod_search44 input[type="search"]{ width:auto; }
 	<script type="text/javascript">
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
-			});
+			});
 		jQuery(function($) {
 			SqueezeBox.initialize({});
 			SqueezeBox.assign($('a.flyermodal').get(), {
@@ -89,7 +89,7 @@ jQuery(window).on('load',  function() {
         <div id="slideshow">
             			<div class="moduletable">
 						
-<div id="slideshow-2-65f8701ea1182" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
+<div id="slideshow-2-65f87e7390a7b" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
 	<div>
 		<ul class="slides">
 
@@ -132,7 +132,7 @@ jQuery(window).on('load',  function() {
                         <div id="slideshow" style="display: none;">
             			<div class="moduletable">
 						
-<div id="slideshow-2-65f8701ea1182" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
+<div id="slideshow-2-65f87e7390a7b" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
 	<div>
 		<ul class="slides">
 
@@ -198,8 +198,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:67" />
-					Zugriffe: 67			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:68" />
+					Zugriffe: 68			</dd>						</dl>
 	
 
 
@@ -243,8 +243,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:147" />
-					Zugriffe: 147			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:148" />
+					Zugriffe: 148			</dd>						</dl>
 	
 
 
@@ -289,8 +289,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:240" />
-					Zugriffe: 240			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:241" />
+					Zugriffe: 241			</dd>						</dl>
 	
 
 
@@ -333,8 +333,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:493" />
-					Zugriffe: 493			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:494" />
+					Zugriffe: 494			</dd>						</dl>
 	
 
 
@@ -377,8 +377,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1298" />
-					Zugriffe: 1298			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1299" />
+					Zugriffe: 1299			</dd>						</dl>
 	
 
 
@@ -421,8 +421,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1681" />
-					Zugriffe: 1681			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1682" />
+					Zugriffe: 1682			</dd>						</dl>
 	
 
 
@@ -465,8 +465,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1903" />
-					Zugriffe: 1903			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1904" />
+					Zugriffe: 1904			</dd>						</dl>
 	
 
 
@@ -509,8 +509,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1823" />
-					Zugriffe: 1823			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1824" />
+					Zugriffe: 1824			</dd>						</dl>
 	
 
 
