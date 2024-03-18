@@ -71,12 +71,12 @@
     </script>
 	
 <link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/screen.css" type="text/css" /><link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/print.css" media="print" type="text/css" /><link rel="alternate" type="application/rss+xml" title="HPI Pressemitteilungen" href="https://hpi.de/index.html?type=200&feedid=4" /><link rel="alternate" type="application/rss+xml" title="HPI Neuigkeiten" href="https://hpi.de/index.html?type=200&feedid=5" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Informationssysteme" href="https://hpi.de/index.html?type=200&feedid=6" /><link rel="alternate" type="application/rss+xml" title="News der School of Design Thinking" href="https://hpi.de/index.html?type=200&feedid=7" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Algorithm Engineering" href="https://hpi.de/index.html?type=200&feedid=9" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Systemanalyse und Modellierung" href="https://hpi.de/index.html?type=200&feedid=10" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Knowledge Discovery and Data Mining" href="https://hpi.de/index.html?type=200&feedid=11" /><link rel="alternate" type="application/rss+xml" title="HPI Veranstaltungen" href="https://hpi.de/index.html?type=200&feedid=12" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebiets Computergrafische Systeme" href="https://hpi.de/index.html?type=200&feedid=14" /><link rel="alternate" type="application/rss+xml" title="Test" href="https://hpi.de/index.html?type=200&feedid=16" />
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/nc/naumann/publications/recent-publications/year/2012/102037/conf_ICDE_DraisbachNSW_2012.html?cHash=436f752340ca20a4688c7407129bb356"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/nc/naumann/publications/recent-publications/year/2012/102037/conf_ICDE_DraisbachNSW_2012.html?cHash=436f752340ca20a4688c7407129bb356"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/nc/naumann/publications/recent-publications/year/2012/102037/conf_ICDE_DraisbachNSW_2012.html?cHash=436f752340ca20a4688c7407129bb356"/>
-<link rel="alternate" hreflang="x-default" href="https://hpi.de/nc/naumann/publications/recent-publications/year/2012/102037/conf_ICDE_DraisbachNSW_2012.html?cHash=436f752340ca20a4688c7407129bb356"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/index.html"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/index.html"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/index.html"/>
+<link rel="alternate" hreflang="x-default" href="https://hpi.de/index.html"/>
 
-<link rel="canonical" href="https://hpi.de/nc/naumann/publications/recent-publications/year/2012/102037/conf_ICDE_DraisbachNSW_2012.html?cHash=436f752340ca20a4688c7407129bb356"/>
+<link rel="canonical" href="https://hpi.de/index.html"/>
 
 
 </head>
@@ -160,23 +160,23 @@
 
 </div><div class="col-md-4">
 
-<div class="csc-frame csc-frame-default " ><a id="c65"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_65_1" data-toggle="tab">Bundesverdienstkreuz für Prof. Lothar H. Wieler</a></li><li class=""><a href="#channelteaser_ttc_65_2" data-toggle="tab">„Dienst an der Wissenschaftsgemeinschaft“</a></li><li class=""><a href="#channelteaser_ttc_65_3" data-toggle="tab">123456789 ist das beliebteste Passwort 2023 in Deutschland</a></li><li class=""><a href="#channelteaser_ttc_65_4" data-toggle="tab">HPI bekommt Professur für datenintensives Internet-Computing</a></li><li></li></ul><h1><a href="/forschung/uebersicht.html">Forschung</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_65_1"><h2><a href="/news/jahrgaenge/2024/bundesverdienstkreuz-fuer-prof-lothar-h-wieler.html">Bundesverdienstkreuz für Prof. Lothar H. Wieler</a></h2><p>
+<div class="csc-frame csc-frame-default " ><a id="c65"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_65_1" data-toggle="tab">Zur Verbesserung der Behandlungskapazität und -qualität</a></li><li class=""><a href="#channelteaser_ttc_65_2" data-toggle="tab">Bundesverdienstkreuz für Prof. Lothar H. Wieler</a></li><li class=""><a href="#channelteaser_ttc_65_3" data-toggle="tab">„Dienst an der Wissenschaftsgemeinschaft“</a></li><li class=""><a href="#channelteaser_ttc_65_4" data-toggle="tab">123456789 ist das beliebteste Passwort 2023 in Deutschland</a></li><li></li></ul><h1><a href="/forschung/uebersicht.html">Forschung</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_65_1"><h2><a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html">Zur Verbesserung der Behandlungskapazität und -qualität</a></h2><p>
+                    Das HPI kooperiert mit dem Klinikum Ernst von Bergmann im Forschungsprojekt „Krankenhausbetten – Kapazitätsprognose mit künstlicher Intelligenz KaKI“.
+                    <a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html">>
+                        Zum Artikel
+                    </a></p><a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html"><img src="/fileadmin/_processed_/6/c/csm_20240318_Bergmann-Koop_1020x420_74e8605123.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_2"><h2><a href="/news/jahrgaenge/2024/bundesverdienstkreuz-fuer-prof-lothar-h-wieler.html">Bundesverdienstkreuz für Prof. Lothar H. Wieler</a></h2><p>
                     Für sein herausragendes Engagement für die Gesundheit der Bevölkerung hat Prof. Lothar H. Wieler das Verdienstkreuz erster Klasse erhalten.
                     <a href="/news/jahrgaenge/2024/bundesverdienstkreuz-fuer-prof-lothar-h-wieler.html">>
                         Zum Artikel
-                    </a></p><a href="/news/jahrgaenge/2024/bundesverdienstkreuz-fuer-prof-lothar-h-wieler.html"><img src="/fileadmin/_processed_/c/8/csm_Wieler-Verdienstkreuz-1020x420_5b1b10b959.png" width="424" height="175" alt="" title="Lothar Wieler erhält Bundesverdienstkreuz" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_2"><h2><a href="/news/jahrgaenge/2023/dienst-an-der-wissenschaftsgemeinschaft.html">„Dienst an der Wissenschaftsgemeinschaft“</a></h2><p>
+                    </a></p><a href="/news/jahrgaenge/2024/bundesverdienstkreuz-fuer-prof-lothar-h-wieler.html"><img src="/fileadmin/_processed_/c/8/csm_Wieler-Verdienstkreuz-1020x420_5b1b10b959.png" width="424" height="175" alt="" title="Lothar Wieler erhält Bundesverdienstkreuz" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_3"><h2><a href="/news/jahrgaenge/2023/dienst-an-der-wissenschaftsgemeinschaft.html">„Dienst an der Wissenschaftsgemeinschaft“</a></h2><p>
                     Prof. Felix Naumann ist Chefredakteur des „Journal of Data and Information Quality”. Wir haben ihn zu seiner Arbeit befragt.
                     <a href="/news/jahrgaenge/2023/dienst-an-der-wissenschaftsgemeinschaft.html">>
                         Zum Artikel
-                    </a></p><a href="/news/jahrgaenge/2023/dienst-an-der-wissenschaftsgemeinschaft.html"><img src="/fileadmin/_processed_/3/d/csm_20240111_Naumann_Journal_1020x420_bf9e3319b4.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_3"><h2><a href="/news/jahrgaenge/2023/123456789-ist-das-beliebteste-passwort-2023-in-deutschland.html">123456789 ist das beliebteste Passwort 2023 in Deutschland</a></h2><p>
+                    </a></p><a href="/news/jahrgaenge/2023/dienst-an-der-wissenschaftsgemeinschaft.html"><img src="/fileadmin/_processed_/3/d/csm_20240111_Naumann_Journal_1020x420_bf9e3319b4.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_4"><h2><a href="/news/jahrgaenge/2023/123456789-ist-das-beliebteste-passwort-2023-in-deutschland.html">123456789 ist das beliebteste Passwort 2023 in Deutschland</a></h2><p>
                     Jedes Jahr veröffentlicht das HPI die Top10 der meist geleakten Passwörter der Deutschen.
                     <a href="/news/jahrgaenge/2023/123456789-ist-das-beliebteste-passwort-2023-in-deutschland.html">>
                         Zum Artikel
-                    </a></p><a href="/news/jahrgaenge/2023/123456789-ist-das-beliebteste-passwort-2023-in-deutschland.html"><img src="/fileadmin/_processed_/7/c/csm_20231219_Passwoerter-2023_1020x420_d7de3008cf.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_65_4"><h2><a href="/news/jahrgaenge/2023/hpi-bekommt-professur-fuer-datenintensives-internet-computing.html">HPI bekommt Professur für datenintensives Internet-Computing</a></h2><p>
-                    Ab Januar 2024 wird Prof. Vaibhav Bajpai den Fachbereich „Data-Intensive Internet Computing“ am HPI leiten.
-                    <a href="/news/jahrgaenge/2023/hpi-bekommt-professur-fuer-datenintensives-internet-computing.html">>
-                        Zum Artikel
-                    </a></p><a href="/news/jahrgaenge/2023/hpi-bekommt-professur-fuer-datenintensives-internet-computing.html"><img src="/fileadmin/_processed_/c/b/csm_Prof.-vbajpai-bajpai--1020x420_7ac4a34da5.jpg" width="424" height="175" alt="" /></a></div></div><script type="text/javascript">
+                    </a></p><a href="/news/jahrgaenge/2023/123456789-ist-das-beliebteste-passwort-2023-in-deutschland.html"><img src="/fileadmin/_processed_/7/c/csm_20231219_Passwoerter-2023_1020x420_d7de3008cf.jpg" width="424" height="175" alt="" /></a></div></div><script type="text/javascript">
 	jQuery(document).ready(function () {
 		jQuery('.wrapper-8.teaser.channel .col-md-4').each(function (index, item) {
 			var navTabs = jQuery(item).find('.nav.nav-tabs li');
@@ -428,7 +428,13 @@
 
 
 
-<div class="wrapper-8 teaser"><div class="csc-frame csc-frame-default " ><a id="c69"></a><div class="tx_dscoverview" id="tx_dscoverview__ttc_69"><div class="tx_dscoverview_inner"><div class="tx_dscoverview_items"><div class="col-md-8 news"><a href="/news/jahrgaenge/2024/sap-chef-christian-klein-unterrichtet-masterstudierende-am-hpi.html"><img style="max-width:160px;max-height:120px;" src="/fileadmin/_processed_/e/9/csm_Christian-Klein_400x300_19b20eb505.jpg" width="160" height="120" alt="" /></a><p class="date">
+<div class="wrapper-8 teaser"><div class="csc-frame csc-frame-default " ><a id="c69"></a><div class="tx_dscoverview" id="tx_dscoverview__ttc_69"><div class="tx_dscoverview_inner"><div class="tx_dscoverview_items"><div class="col-md-8 news"><a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html"><img style="max-width:160px;max-height:120px;" src="/fileadmin/_processed_/d/3/csm_20240318_Bergmann-Koop_400x300_586811deb2.jpg" width="160" height="120" alt="" /></a><p class="date">
+                            18.03.2024
+                        </p><h1 class="h2"><a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html">Zur Verbesserung der Behandlungskapazität und -qualität</a></h1><p>
+                            Das HPI kooperiert mit dem Klinikum Ernst von Bergmann im Forschungsprojekt „Krankenhausbetten – Kapazitätsprognose mit künstlicher Intelligenz KaKI“.
+                            <a href="/news/jahrgaenge/2024/zur-verbesserung-der-behandlungskapazitaet-und-qualitaet.html">&gt;
+                                Zum Artikel
+                            </a></p></div><div class="col-md-8 news"><a href="/news/jahrgaenge/2024/sap-chef-christian-klein-unterrichtet-masterstudierende-am-hpi.html"><img style="max-width:160px;max-height:120px;" src="/fileadmin/_processed_/e/9/csm_Christian-Klein_400x300_19b20eb505.jpg" width="160" height="120" alt="" /></a><p class="date">
                             15.03.2024
                         </p><h1 class="h2"><a href="/news/jahrgaenge/2024/sap-chef-christian-klein-unterrichtet-masterstudierende-am-hpi.html">SAP-Chef Christian Klein unterrichtet Masterstudierende am HPI</a></h1><p>
                             Im Rahmen des Blockseminars &quot;Trends and Concepts in the Software Industry&quot; gab SAP CEO Christian Klein Einblicke in das Thema Enterprise AI.
@@ -457,12 +463,6 @@
                         </p><h1 class="h2"><a href="/news/jahrgaenge/2024/nachwuchsfoerderung-mit-dem-bwinf-ans-hpi.html">Nachwuchsförderung: Mit dem BWINF ans HPI</a></h1><p>
                             Mit dem Fit-for-BWINF- und Girls@BWINF-Camp beteiligte sich das HPI mit zwei Camps an der Förderung von Informatiktalenten.
                             <a href="/news/jahrgaenge/2024/nachwuchsfoerderung-mit-dem-bwinf-ans-hpi.html">&gt;
-                                Zum Artikel
-                            </a></p></div><div class="col-md-8 news"><a href="/news/jahrgaenge/2024/hpi-tomorrow-day-100000-eur-investmentangebote-fuer-neue-tech-startups.html"><img style="max-width:160px;max-height:120px;" src="/fileadmin/_processed_/7/f/csm_20240201_Tomorrow-Day_400x300_d04988883f.jpg" width="160" height="120" alt="" title="Tomorrow Day der HPI School of Entrepreneurship" /></a><p class="date">
-                            02.02.2024
-                        </p><h1 class="h2"><a href="/news/jahrgaenge/2024/hpi-tomorrow-day-100000-eur-investmentangebote-fuer-neue-tech-startups.html">HPI Tomorrow Day: 100.000 EUR Investmentangebote für neue Tech-Startups</a></h1><p>
-                            Im großen Finale des Venture Builder der HPI School of Entrepreneurship präsentierten acht Teams ihre Geschäftsideen.
-                            <a href="/news/jahrgaenge/2024/hpi-tomorrow-day-100000-eur-investmentangebote-fuer-neue-tech-startups.html">&gt;
                                 Zum Artikel
                             </a></p></div><div class="clearer"></div></div></div></div></div></div>
 
