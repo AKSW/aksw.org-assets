@@ -192,7 +192,7 @@
 
 </div><div class="col-md-4">
 
-<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">Digitaler Masterinformationstag</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">Girls&#039; Day 2024</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">HPI Connect Messe</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">Potsdamer Konferenz für Nationale CyberSicherheit</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/digitaler-masterinformationstag.html">Digitaler Masterinformationstag</a></h2><p>
+<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">Digitaler Masterinformationstag</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">Girls&#039; Day 2024</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">HPI Connect Messe</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">Hybrider Bachelorinformationstag</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/digitaler-masterinformationstag.html">Digitaler Masterinformationstag</a></h2><p>
                     Jetzt anmelden und am 22. April online über die Masterstudiengänge des HPI informieren. 
                     <a href="/veranstaltungen/hpi-veranstaltungen/2024/digitaler-masterinformationstag.html">>
                         Zum Artikel
@@ -204,11 +204,11 @@
                     Die HPI Connect Messe am 16. Mai 2024 bringt Firmen aller Branchen mit HPI-Studierenden und -Alumni zusammen.
                     <a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-connect-messe.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-connect-messe.html"><img src="/fileadmin/_processed_/0/1/csm_Event_Connect-Messe-2024_1020x420_7416b8e0c4.jpg" width="424" height="175" alt="" title="HPI Connect Messe 2024" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html">Potsdamer Konferenz für Nationale CyberSicherheit</a></h2><p>
-                    Am 19. und 20. Juni 2024 diskutieren hochrangige Expert:innen am HPI über die aktuelle Lage der Cybersicherheit in Deutschland und der Welt.
-                    <a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html">>
+                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-connect-messe.html"><img src="/fileadmin/_processed_/0/1/csm_Event_Connect-Messe-2024_1020x420_7416b8e0c4.jpg" width="424" height="175" alt="" title="HPI Connect Messe 2024" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html">Hybrider Bachelorinformationstag</a></h2><p>
+                    Nach dem Abitur die digitale Zukunft gestalten: Informiere Dich am 07. Juni über den Bachelor IT-Systems Engineering.
+                    <a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html"><img src="/fileadmin/_processed_/0/4/csm_Event_Siko-2024_1020x420_42ccec9c05.jpg" width="424" height="175" alt="" title="Potsdamer Konferenz für Nationale CyberSicherheit 2024" /></a></div></div><script type="text/javascript">
+                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html"><img src="/fileadmin/_processed_/6/6/csm_18835-HPI-Kampagne-Studierende-Teaser-1020x420-E01_7dc043ebdf.jpg" width="424" height="175" alt="" title="Bachelorinformationstag 2024" /></a></div></div><script type="text/javascript">
 	jQuery(document).ready(function () {
 		jQuery('.wrapper-8.teaser.channel .col-md-4').each(function (index, item) {
 			var navTabs = jQuery(item).find('.nav.nav-tabs li');
