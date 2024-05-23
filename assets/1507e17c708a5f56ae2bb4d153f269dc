@@ -71,12 +71,12 @@
     </script>
 	
 <link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/screen.css" type="text/css" /><link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/print.css" media="print" type="text/css" /><link rel="alternate" type="application/rss+xml" title="HPI Pressemitteilungen" href="https://hpi.de/index.html?type=200&feedid=4" /><link rel="alternate" type="application/rss+xml" title="HPI Neuigkeiten" href="https://hpi.de/index.html?type=200&feedid=5" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Informationssysteme" href="https://hpi.de/index.html?type=200&feedid=6" /><link rel="alternate" type="application/rss+xml" title="News der School of Design Thinking" href="https://hpi.de/index.html?type=200&feedid=7" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Algorithm Engineering" href="https://hpi.de/index.html?type=200&feedid=9" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Systemanalyse und Modellierung" href="https://hpi.de/index.html?type=200&feedid=10" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Knowledge Discovery and Data Mining" href="https://hpi.de/index.html?type=200&feedid=11" /><link rel="alternate" type="application/rss+xml" title="HPI Veranstaltungen" href="https://hpi.de/index.html?type=200&feedid=12" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebiets Computergrafische Systeme" href="https://hpi.de/index.html?type=200&feedid=14" /><link rel="alternate" type="application/rss+xml" title="Test" href="https://hpi.de/index.html?type=200&feedid=16" />
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/backup/ALFA_DATA/alfacgiapi/py.alfa.html?cHash=41c82e6c6657d50da5ef6b75cc67914f"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/backup/ALFA_DATA/alfacgiapi/py.alfa.html?cHash=41c82e6c6657d50da5ef6b75cc67914f"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/backup/ALFA_DATA/alfacgiapi/py.alfa.html?cHash=41c82e6c6657d50da5ef6b75cc67914f"/>
-<link rel="alternate" hreflang="x-default" href="https://hpi.de/backup/ALFA_DATA/alfacgiapi/py.alfa.html?cHash=41c82e6c6657d50da5ef6b75cc67914f"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/index.html"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/index.html"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/index.html"/>
+<link rel="alternate" hreflang="x-default" href="https://hpi.de/index.html"/>
 
-<link rel="canonical" href="https://hpi.de/backup/ALFA_DATA/alfacgiapi/py.alfa.html?cHash=41c82e6c6657d50da5ef6b75cc67914f"/>
+<link rel="canonical" href="https://hpi.de/index.html"/>
 
 
 </head>
@@ -192,7 +192,7 @@
 
 </div><div class="col-md-4">
 
-<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">Hybrider Bachelorinformationstag</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">Girls@BwInf Camp</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">Potsdamer Konferenz für Nationale CyberSicherheit</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">HPI Sommerfest 2024</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html">Hybrider Bachelorinformationstag</a></h2><p>
+<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">Hybrider Bachelorinformationstag</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">Girls@BwInf Camp</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">Potsdamer Konferenz für Nationale CyberSicherheit</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">Bachelorpodium 2024</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html">Hybrider Bachelorinformationstag</a></h2><p>
                     Nach dem Abitur die digitale Zukunft gestalten: Informiere Dich am 07. Juni über den Bachelor IT-Systems Engineering.
                     <a href="/veranstaltungen/hpi-veranstaltungen/2024/hybrider-bachelorinformationstag.html">>
                         Zum Artikel
@@ -204,11 +204,11 @@
                     Am 19. und 20. Juni 2024 diskutieren hochrangige Expert:innen am HPI über die aktuelle Lage der Cybersicherheit in Deutschland und der Welt.
                     <a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html"><img src="/fileadmin/_processed_/0/4/csm_Event_Siko-2024_1020x420_42ccec9c05.jpg" width="424" height="175" alt="" title="Potsdamer Konferenz für Nationale CyberSicherheit 2024" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">HPI Sommerfest 2024</a></h2><p>
-                    Beim HPI Sommerfest lassen wir traditionell am letzten Freitag der Vorlesungszeit das akademische Jahr ausklingen. 
-                    <a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">>
+                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/potsdamer-konferenz-fuer-nationale-cybersicherheit.html"><img src="/fileadmin/_processed_/0/4/csm_Event_Siko-2024_1020x420_42ccec9c05.jpg" width="424" height="175" alt="" title="Potsdamer Konferenz für Nationale CyberSicherheit 2024" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/bachelorpodium-2024.html">Bachelorpodium 2024</a></h2><p>
+                    Beim Bachelorpodium stellen HPI-Studierende ihre Software-Lösungen vor, die sie über zwei Semester erarbeitet haben.
+                    <a href="/veranstaltungen/hpi-veranstaltungen/2024/bachelorpodium-2024.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html"><img src="/fileadmin/_processed_/3/0/csm_Event_Sommerfest_1020x420_a823b1f5b1.jpg" width="424" height="175" alt="" title="HPI Sommerfest 2024" /></a></div></div><script type="text/javascript">
+                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/bachelorpodium-2024.html"><img src="/fileadmin/_processed_/7/8/csm_Bachelorpodium-2024_1020x420_b20e118395.jpg" width="424" height="175" alt="" /></a></div></div><script type="text/javascript">
 	jQuery(document).ready(function () {
 		jQuery('.wrapper-8.teaser.channel .col-md-4').each(function (index, item) {
 			var navTabs = jQuery(item).find('.nav.nav-tabs li');
