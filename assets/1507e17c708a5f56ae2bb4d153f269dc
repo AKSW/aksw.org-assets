@@ -71,12 +71,12 @@
     </script>
 	
 <link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/screen.css" type="text/css" /><link rel="stylesheet" href="/typo3conf/ext/hpi_distribution/Resources/Public/Default/css/print.css" media="print" type="text/css" /><link rel="alternate" type="application/rss+xml" title="HPI Pressemitteilungen" href="https://hpi.de/index.html?type=200&feedid=4" /><link rel="alternate" type="application/rss+xml" title="HPI Neuigkeiten" href="https://hpi.de/index.html?type=200&feedid=5" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Informationssysteme" href="https://hpi.de/index.html?type=200&feedid=6" /><link rel="alternate" type="application/rss+xml" title="News der School of Design Thinking" href="https://hpi.de/index.html?type=200&feedid=7" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Algorithm Engineering" href="https://hpi.de/index.html?type=200&feedid=9" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Systemanalyse und Modellierung" href="https://hpi.de/index.html?type=200&feedid=10" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebietes Knowledge Discovery and Data Mining" href="https://hpi.de/index.html?type=200&feedid=11" /><link rel="alternate" type="application/rss+xml" title="HPI Veranstaltungen" href="https://hpi.de/index.html?type=200&feedid=12" /><link rel="alternate" type="application/rss+xml" title="News des Fachgebiets Computergrafische Systeme" href="https://hpi.de/index.html?type=200&feedid=14" /><link rel="alternate" type="application/rss+xml" title="Test" href="https://hpi.de/index.html?type=200&feedid=16" />
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/index.html"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/index.html"/>
-<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/index.html"/>
-<link rel="alternate" hreflang="x-default" href="https://hpi.de/index.html"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/index.html?1582106612=&amp;cHash=1cb3f74e289db371b8249eed3ac34226"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/cn/index.html?1582106612=&amp;cHash=1cb3f74e289db371b8249eed3ac34226"/>
+<link rel="alternate" hreflang="en-US" href="https://hpi.de/en/index.html?1582106612=&amp;cHash=1cb3f74e289db371b8249eed3ac34226"/>
+<link rel="alternate" hreflang="x-default" href="https://hpi.de/index.html?1582106612=&amp;cHash=1cb3f74e289db371b8249eed3ac34226"/>
 
-<link rel="canonical" href="https://hpi.de/index.html"/>
+<link rel="canonical" href="https://hpi.de/index.html?1582106612=&amp;cHash=1cb3f74e289db371b8249eed3ac34226"/>
 
 
 </head>
@@ -192,23 +192,23 @@
 
 </div><div class="col-md-4">
 
-<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">HPI Sommerfest 2024</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">HPI-Sommercamp 2024</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">Young Women in AI Camp</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">EmpowerHER+</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">HPI Sommerfest 2024</a></h2><p>
-                    Beim HPI Sommerfest lassen wir traditionell am letzten Freitag der Vorlesungszeit das akademische Jahr ausklingen. 
-                    <a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">>
-                        Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html"><img src="/fileadmin/_processed_/3/0/csm_Event_Sommerfest_1020x420_a823b1f5b1.jpg" width="424" height="175" alt="" title="HPI Sommerfest 2024" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_2"><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html">HPI-Sommercamp 2024</a></h2><p>
+<div class="csc-frame csc-frame-default " ><a id="c175806"></a><ul class="nav nav-tabs"><li></li><li class="active"><a href="#channelteaser_ttc_175806_1" data-toggle="tab">HPI-Sommercamp 2024</a></li><li class=""><a href="#channelteaser_ttc_175806_2" data-toggle="tab">Young Women in AI Camp</a></li><li class=""><a href="#channelteaser_ttc_175806_3" data-toggle="tab">EmpowerHER+</a></li><li class=""><a href="#channelteaser_ttc_175806_4" data-toggle="tab">HPI Code Night 2024</a></li><li></li></ul><h1><a href="/das-hpi/veranstaltungen.html">Veranstaltungen</a></h1><div class="tab-content"><div class="tab-pane active" id="channelteaser_ttc_175806_1"><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html">HPI-Sommercamp 2024</a></h2><p>
                     Hack den Sommer mit deinen Ideen im HPI-Sommercamp 2024! Fünf Tage lang tauchst du mit anderen Jugendlichen in die Welt der Informatik ein.
                     <a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html"><img src="/fileadmin/_processed_/8/7/csm_Sommercamp_digital_1020x420_c1addca037.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_3"><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html">Young Women in AI Camp</a></h2><p>
+                    </a></p><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html"><img src="/fileadmin/_processed_/8/7/csm_Sommercamp_digital_1020x420_c1addca037.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_2"><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html">Young Women in AI Camp</a></h2><p>
                     Beim Young Women in AI Camp lernen Schülerinnen vom 16.-18. Oktober die Welt der künstlichen Intelligenz kennen.
                     <a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html"><img src="/fileadmin/_processed_/3/1/csm_Young-Women-in-AI_1020x420_928ac75d68.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html">EmpowerHER+</a></h2><p>
+                    </a></p><a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html"><img src="/fileadmin/_processed_/3/1/csm_Young-Women-in-AI_1020x420_928ac75d68.jpg" width="424" height="175" alt="" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_3"><h2><a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html">EmpowerHER+</a></h2><p>
                     Die empowerHER+ Konferenz des HPI schafft Raum für die aktuellsten IT-Themen sowie Vernetzung und Empowerment von Frauen* in der Tech-Branche.
                     <a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html">>
                         Zum Artikel
-                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html"><img src="/fileadmin/_processed_/4/5/csm_WiT_Konferenz_1020x420_f188abe352.jpg" width="424" height="187" alt="" title="Women in Tech Konferenz: Future Work" /></a></div></div><script type="text/javascript">
+                    </a></p><a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html"><img src="/fileadmin/_processed_/4/5/csm_WiT_Konferenz_1020x420_f188abe352.jpg" width="424" height="187" alt="" title="Women in Tech Konferenz: Future Work" /></a></div><div class="tab-pane " id="channelteaser_ttc_175806_4"><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-code-night-2024.html">HPI Code Night 2024</a></h2><p>
+                    Die ganze Nacht wach bleiben und coden: Das geht für alle IT-Begeisterten ab 16 Jahren zur HPI Code Night im November.
+                    <a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-code-night-2024.html">>
+                        Zum Artikel
+                    </a></p><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-code-night-2024.html"><img src="/fileadmin/_processed_/8/1/csm_csm_HPI-Code_Night_1020x420_3598857db8_2188267457.jpg" width="424" height="175" alt="" /></a></div></div><script type="text/javascript">
 	jQuery(document).ready(function () {
 		jQuery('.wrapper-8.teaser.channel .col-md-4').each(function (index, item) {
 			var navTabs = jQuery(item).find('.nav.nav-tabs li');
@@ -352,13 +352,7 @@
 	
 	
 
-<div class="csc-frame csc-frame-default " ><a id="c148970"></a><header><h1 class=""><a href="/das-hpi/veranstaltungen.html">Termine</a></h1></header><h2><a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">
-                19.07.2024
-                | <b>HPI Sommerfest 2024</b></a></h2><p>
-            Beim HPI Sommerfest lassen wir traditionell am letzten Freitag der Vorlesungszeit das akademische Jahr ausklingen. 
-            <a href="/veranstaltungen/hpi-veranstaltungen/2024/hpi-sommerfest-2024.html">&gt;
-                Zum Artikel
-            </a></p><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html">
+<div class="csc-frame csc-frame-default " ><a id="c148970"></a><header><h1 class=""><a href="/das-hpi/veranstaltungen.html">Termine</a></h1></header><h2><a href="/veranstaltungen/schuelerveranstaltungen/2024/hpi-sommercamp-2024.html">
                 19.08.2024
                 | <b>HPI-Sommercamp 2024</b></a></h2><p>
             Hack den Sommer mit deinen Ideen im HPI-Sommercamp 2024! Fünf Tage lang tauchst du mit anderen Jugendlichen in die Welt&nbsp;&hellip;
@@ -369,6 +363,12 @@
                 | <b>Young Women in AI Camp</b></a></h2><p>
             Beim Young Women in AI Camp lernen Schülerinnen vom 16.-18. Oktober die Welt der künstlichen Intelligenz kennen.
             <a href="/veranstaltungen/schuelerveranstaltungen/2024/young-women-in-ai-camp.html">&gt;
+                Zum Artikel
+            </a></p><h2><a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html">
+                14.11.2024
+                | <b>EmpowerHER+</b></a></h2><p>
+            Die empowerHER+ Konferenz des HPI schafft Raum für die aktuellsten IT-Themen sowie Vernetzung und Empowerment von&nbsp;&hellip;
+            <a href="/veranstaltungen/hpi-veranstaltungen/2023/empowerher.html">&gt;
                 Zum Artikel
             </a></p></div>
 
