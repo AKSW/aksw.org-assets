@@ -40,6 +40,7 @@ tasks:
           echo curl too old for IRI support
           exit 1
         fi
+        rm -rf assets
         mkdir -p assets
         {{.CMEMC}} query execute --accept application/json -p graph {{.INTEGRATION_GRAPH_IRI}} queries/foaf_depiction.rq.tpl |\
         jq -r ".results.bindings[].url.value" |\
@@ -52,8 +53,10 @@ tasks:
           else
             echo "file assets/$md5: failed"
             rm -f assets/$md5.tmp 2>/dev/null
+            git restore assets/$md5 2> /dev/null
           fi
         done
+        git restore assets/placeholder_person.svg
 
   track:commit-and-push:
     desc: Commit and push all changes made to the directories
