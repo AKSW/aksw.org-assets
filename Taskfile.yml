@@ -52,8 +52,8 @@ tasks:
             mv assets/$md5.tmp assets/$md5
           else
             echo "file assets/$md5: failed"
-            rm -f assets/$md5.tmp 2>/dev/null
-            git restore assets/$md5 2> /dev/null
+            rm -f assets/$md5.tmp 2>/dev/null || true
+            git restore assets/$md5 2> /dev/null || true
           fi
         done
         git restore assets/placeholder_person.svg
