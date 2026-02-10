@@ -1,185 +1,22 @@
-<!DOCTYPE html >
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Professur für Multimediatechnik: Home</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-	<link rel="shortcut icon" href="/global/images/icons/favicon.png" type="image/png" />
-	<link href="/Home/feed.xml" rel="alternate" type="application/rss+xml" title="Lehrstuhl für Multimediatechnik Newsfeed" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/mmtlayout.css" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/mmtcolors.css" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/mmtlayout_header.css" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/Home/layout.css" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/mmtlayout_print.css" media="print" />
-	<link rel="stylesheet" type="text/css" href="/global/styles/mobile.css" media="only screen and (max-width: 480px)" /> 
-	<script type="text/javascript" src="/global/scripts/util.js"><!--
-
-//--></script>
-	<script type="text/javascript" src="/global/scripts/maxwidth.js"><!--
-
-//--></script>
-	<script type="text/javascript" src="/global/scripts/outdated.js"><!--
-
-//--></script>
-	<script type="text/javascript" src="/global/scripts/jquery-3.5.1.min.js"><!--
-
-//--></script>
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"><!--
-
-//--></script>	
-		<link rel="stylesheet" href="/global/scripts/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
-		<script type="text/javascript" src="/global/scripts/nivo-slider/jquery.nivo.slider.pack.js"><!--
-
-//--></script>
-		<script type="text/javascript" src="/global/scripts/slideshow_data.js"><!--
-
-//--></script></head><body>
-		<div id="mainheader">
-			<div id="logopanel">
-				<a href="/"><img alt="MMT-Logo" src="/global/images/logo.png" width="96" height="45" /></a>
-			</div>
-                <form id="searchform" action="//www.google.de/search" method="get">
-                    <input type="text" name="q" id="searchfield" placeholder="Suchbegriff eingeben..." /> <input type="image" id="searchbutton" src="/global/images/icons/searchbutton.png" alt="Suche" title="Suche" />
-                    <input type="hidden" name="hl" value="de" />
-                    <input type="hidden" name="sitesearch" value="www.mmt.inf.tu-dresden.de" />
-                </form>
-
-                <div id="metanavi">
-                    <span style="margin-left: 0px;">
-                        <a href="/Home/sitemap.xhtml">Sitemap</a>
-                    </span> | 
-        <span title="English version" class="">
-                <a href="/Home/index_en.xhtml">
-                        English
-                </a>
-        </span>
-                </div>
-
-                <div id="breadcrumbs"><span id="j_id_h" name="j_id_h">Home</span>
-                </div>
-		</div>
-
-		<div id="seasonlayer"></div>
-
-		<div id="mainnavi">
-        <a href="/Home/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Home"><img src="/global/images/navi/home.png" alt="Home" /></a>
-        <a href="/Lehre/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Lehre"><img src="/global/images/navi/lehre.png" alt="Lehre" /></a>
-        <a href="/Forschung/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Forschung"><img src="/global/images/navi/forschung.png" alt="Forschung" /></a>
-        <a href="/Team/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Team"><img src="/global/images/navi/team.png" alt="Team" /></a>
-        <a href="/Service/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Service"><img src="/global/images/navi/service.png" alt="Service" /></a>
-        <a href="/Demos/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Demos"><img src="/global/images/navi/demos.png" alt="Demos" /></a>
-        <a href="/15mmt/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="15 Jahre MMT"><img src="/global/images/navi/15mmt.png" alt="???_15mmtlabel???" /></a>
-        <a href="/20mmt/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="???_20mmtLabel???"><img src="/global/images/navi/20mmt.png" alt="???_20mmtlabel???" /></a>
-            </div>
-            <div id="mainnavi_text">
-        <a href="/Home/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Home">Home</a> |
-                
-        <a href="/Lehre/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Lehre">Lehre</a> |
-                
-        <a href="/Forschung/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Forschung">Forschung</a> |
-                
-        <a href="/Team/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Team">Team</a> |
-                
-        <a href="/Service/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Service">Service</a> |
-                
-        <a href="/Demos/index.xhtml" class="class javax.faces.component.UINamingContainer" style="" title="Demos">Demos</a>
-		</div>
-
-		<div id="maincontent">
+/*
+Dieses Stylesheet legt das Layout f�r den Druck fest.
+D.h., die Kopfzeile (#header), die Hauptnavigationsleiste (#mainnavi), die
+Quicknavi und das Hintergrundbild der Seite werden ausgeblendet, sowie die
+Au�en- und Innenabst�nde von body und maincontent auf 0 gesetzt.
+ */
  
-			<h1>Heinz-Nixdorf-Seniorprofessur für Multimediatechnik</h1>
-			<div id="homegallery" style="float:right">
-        <div class="photoshadow " style="">
-			<div class="pb_content">
-					<div id="gallery" class="nivoSlider"></div>
-			</div>
-        </div>
-			</div>
-			<script type="text/javascript"><!--
+body {
+	background-image:	none;
+    position:           static;
+}
 
-			<!--
-			$(document).ready(function() {
-				var imagesToInsert = "";
+#header_container,#mainheader,#mainnavi,#quicknavi {
 
-				for (i = 0; i < 10; i++){
-				   var pic = Math.floor(Math.random()*current.length);
-				   imagesToInsert += "<img src=\""+current[i]+"\" alt=\"Jahreszeit-Impressionen\"/>\n";
-				}
-  
-				$('#gallery').html(imagesToInsert).nivoSlider({
-					effect: 'random', // Specify sets like: 'fold,fade,sliceDown'
-					animSpeed: 500, // Slide transition speed
-					pauseTime: 6000, // How long each slide will show
-					directionNav: false, // Next & Prev navigation
-					controlNav: false, // 1,2,3... navigation
-					randomStart: true // Start on a random slide
-				});
-			});			
-			-->
-			
-//--></script>
+	display: 			none;
+    /* quicknavi does not disappear, so use brute force */
+    visibility:         hidden;
+}
 
-			<p>am <a href="https://tu-dresden.de/ing/informatik/smt/">Institut für Software- und Multimediatechnik</a><br />
-			der <a href="https://tu-dresden.de/ing/informatik">Fakultät Informatik</a> an der <a href="https://tu-dresden.de">TU Dresden</a></p>
-
-			<ul>
-				<li><a href="/Home/kontakte.xhtml">Adresse, Ansprechpartner und Sprechstunde</a></li>
-				<li><a href="/Home/lageplan.xhtml">Lageplan</a></li>
-				<li><a href="/Home/stiftungslehrstuhl.xhtml">Forschungsschwerpunkte</a></li>
-<!--  		<li>Webseiten des <a href="http://web.inf.tu-dresden.de/MI/" class="external">Studienganges Medieninformatik</a></li> -->
-				<li>Mitarbeit im Netzwerk <a href="http://www.software-saxony.de/" class="external">Software Saxony</a></li>
-				<li><a href="/Home/impressum.xhtml">Impressum</a></li>
-			</ul>
-
-			<h2>Aktuelles</h2>
-			<ul>
-				<!--<li><b><a href="http://geneme.de/">GeNeMe'14</a></b> - Call for Papers (<a target="_blank" href="Aktuelles/cfp_geneme2014.pdf" class="pdf">PDF</a>)</li>-->
-				<!-- <li><a href="/Lehre/Wintersemester_17_18/index.xhtml"><strong>Informationen zum Lehrangebot für das Wintersemester 2017/2018</strong></a><img src="/global/images/icons/new.png" alt="NEU" title="NEU" /></li> -->
-				<!--<li><a href="/Home/Aktuelles/diss-pietschmann.xhtml">Dissertationspreis für Dr. Stefan Pietschmann</a></li>-->
-				<li><a href="/Lehre/Themen/list_available.xhtml">Ausgeschriebene Diplom-, Beleg-, Bachelor- und Masterthemen</a></li>
-			</ul>
-			
-			<!--<h2>Studentische Hilfskräfte gesucht</h2>
-			<ul>
-				<li><a href="/Forschung/Projekte/ANG">SHK-Jobs im Projekt ANG verfügbar</a></li>				
-			</ul>--><table class="mmt"><thead><tr><th scope="col">
-				Datum
-			</th><th scope="col">
-				Zeit
-			</th><th scope="col">
-				Ort
-			</th><th scope="col">
-				Bezeichnung
-			</th><th scope="col">
-				Beschreibung
-			</th></tr></thead><tbody id="j_id_38:tbody_element"><tr><td>13.01.2026</td><td>19:26</td><td>
-			
-		</td><td>
-			<strong>
-				Neue studentische Arbeit verfügbar
-				
-			</strong></td><td>Konzeption intelligenter Funktionen eines Portfolio-Managements <small>(Masterarbeit, Diplomarbeit, Bachelorarbeit)</small>
-				<a href="http://www-mmt.inf.tu-dresden.de/Lehre/Themen/details.xhtml?id=456">
-					 ...Details
-				</a></td></tr><tr><td>13.01.2026</td><td>19:27</td><td>
-			
-		</td><td>
-			<strong>
-				Neue studentische Arbeit verfügbar
-				
-			</strong></td><td>Re-Design von Java-Anwendung mit Hilfe generativer KI-Technologien <small>(Masterarbeit, Diplomarbeit, Bachelorarbeit)</small>
-				<a href="http://www-mmt.inf.tu-dresden.de/Lehre/Themen/details.xhtml?id=455">
-					 ...Details
-				</a></td></tr></tbody></table> 
-<!-- 
-<p style="text-align:right">
-<a href="/Home/feed.xml" class="feed">Newsfeed abonnieren</a><br/>
-<a href="https://plus.google.com/111330856388345554533" style="background-color:#ffffff; color: #ffffff;" rel="publisher">Google+</a>
-</p>
--->
-
-
-			<p id="footer">Letzte Änderung am 21.02.2021 17:42
-            </p>
-
-		</div></body>
-</html>
+#maincontent {
+    position:           static;
+}
