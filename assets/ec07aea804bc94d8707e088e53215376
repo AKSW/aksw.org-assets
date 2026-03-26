@@ -89,7 +89,7 @@ jQuery(window).on('load',  function() {
         <div id="slideshow">
             			<div class="moduletable">
 						
-<div id="slideshow-2-69c53effd5ce7" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
+<div id="slideshow-2-69c5572231229" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
 	<div>
 		<ul class="slides">
 
@@ -132,7 +132,7 @@ jQuery(window).on('load',  function() {
                         <div id="slideshow" style="display: none;">
             			<div class="moduletable">
 						
-<div id="slideshow-2-69c53effd5ce7" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
+<div id="slideshow-2-69c5572231229" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options='{"index":0,"buttons":0,"navigation":0,"style":"default","autoplay":1,"interval":6000,"width":416,"height":166,"duration":500,"order":"random","slices":20,"animated":"fade","caption_animation_duration":500}'>
 	<div>
 		<ul class="slides">
 
@@ -243,8 +243,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:414" />
-					Zugriffe: 414			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:415" />
+					Zugriffe: 415			</dd>						</dl>
 	
 
 
@@ -289,8 +289,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:508" />
-					Zugriffe: 508			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:509" />
+					Zugriffe: 509			</dd>						</dl>
 	
 
 
@@ -333,8 +333,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:787" />
-					Zugriffe: 787			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:788" />
+					Zugriffe: 788			</dd>						</dl>
 	
 
 
@@ -377,8 +377,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1601" />
-					Zugriffe: 1601			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1602" />
+					Zugriffe: 1602			</dd>						</dl>
 	
 
 
@@ -421,8 +421,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:1988" />
-					Zugriffe: 1988			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1989" />
+					Zugriffe: 1989			</dd>						</dl>
 	
 
 
@@ -465,8 +465,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:2270" />
-					Zugriffe: 2270			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:2272" />
+					Zugriffe: 2272			</dd>						</dl>
 	
 
 
@@ -509,8 +509,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<span class="icon-eye-open"></span>
-					<meta itemprop="interactionCount" content="UserPageVisits:2116" />
-					Zugriffe: 2116			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:2117" />
+					Zugriffe: 2117			</dd>						</dl>
 	
 
 
