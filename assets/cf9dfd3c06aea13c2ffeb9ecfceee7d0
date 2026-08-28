@@ -75,7 +75,8 @@
       margin: 0 0 1.1rem;
     }
 
-    p:last-of-type {
+    p:last-of-type,
+    p:has(+ hr) {
       margin-bottom: 0;
     }
 
@@ -90,6 +91,128 @@
       font-size: 0.9rem;
     }
 
+    h2 {
+      margin: 0 0 0.9rem;
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--fg);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 1.15rem;
+      margin: 0 0 1.25rem;
+      padding: 0;
+      list-style: none;
+    }
+
+    dl {
+      margin: 0;
+      display: grid;
+      grid-template-columns: max-content minmax(0, 1fr);
+      align-items: baseline;
+      gap: 0.45rem 1rem;
+      font-size: 0.85rem;
+    }
+
+    dt {
+      color: var(--grey);
+      font-weight: 600;
+      line-height: 1.5;
+    }
+
+    dd {
+      margin: 0;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.78rem;
+      color: var(--faded);
+      word-break: break-all;
+      line-height: 1.5;
+      -webkit-user-select: all;
+      user-select: all;
+    }
+
+    details {
+      margin: 0;
+    }
+
+    summary {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      width: max-content;
+      /* hang the chevron in the padding so headings share one left edge */
+      margin-left: -0.95rem;
+      cursor: pointer;
+      list-style: none;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: var(--grey);
+      transition: color 0.15s ease;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    summary:hover,
+    details[open] summary {
+      color: var(--fg);
+    }
+
+    summary:focus-visible {
+      outline: 1px solid var(--accent);
+      outline-offset: 5px;
+      border-radius: 2px;
+    }
+
+    summary::before {
+      content: "";
+      flex: none;
+      width: 0.4rem;
+      height: 0.4rem;
+      border-right: 1.5px solid currentColor;
+      border-bottom: 1.5px solid currentColor;
+      transform: translateY(-0.06em) rotate(-45deg);
+      transition: transform 0.2s ease;
+    }
+
+    details[open] summary::before {
+      transform: translateY(-0.16em) rotate(45deg);
+    }
+
+    .donations {
+      margin-top: 1.35rem;
+      animation: reveal 0.2s ease;
+    }
+
+    @keyframes reveal {
+      from {
+        opacity: 0;
+        transform: translateY(-0.2rem);
+      }
+    }
+
+    .contact {
+      margin: 0;
+      font-size: 0.95rem;
+    }
+
     @media (max-width: 480px) {
       main {
         padding: 1.75rem 1.35rem;
@@ -97,6 +220,15 @@
 
       h1 {
         font-size: 1.25rem;
+      }
+
+      dl {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+      }
+
+      dt {
+        margin-top: 0.5rem;
       }
     }
   </style>
@@ -125,6 +257,51 @@
       Thank you to everyone who used, hosted, packaged, donated and
       contributed to Nitter over the past seven years.
     </p>
+
+    <hr />
+
+    <h2>Contact</h2>
+
+    <p class="contact">
+      <a href="mailto:zedeus@pm.me">zedeus@pm.me</a> &middot;
+      <a href="https://matrix.to/#/#nitter:matrix.org">#nitter:matrix.org</a>
+    </p>
+
+    <hr />
+
+    <h2>Donations</h2>
+
+    <div class="donations">
+      <ul class="links">
+        <li><a href="https://liberapay.com/zedeus">Liberapay</a></li>
+        <li><a href="https://patreon.com/nitter">Patreon</a></li>
+        <li><a href="https://ko-fi.com/zedeus">Ko-fi</a></li>
+      </ul>
+
+      <dl>
+        <dt>BTC</dt>
+        <dd>bc1qpqpzjkcpgluhzf7x9yqe7jfe8gpfm5v08mdr55</dd>
+
+        <dt>ETH</dt>
+        <dd>0x24a0DB59A923B588c7A5EBd0dBDFDD1bCe9c4460</dd>
+
+        <dt>XMR</dt>
+        <dd>
+          42hKayRoEAw4D6G6t8mQHPJHQcXqofjFuVfavqKeNMNUZfeJLJAcNU19i1bGdDvcdN6romiSscWGWJCczFLe9RFhM3d1zpL
+        </dd>
+
+        <dt>SOL</dt>
+        <dd>FF5bheiD5AqPEdc3eyjymJ8AoMRF1hS78Ht6FiSZZF1t</dd>
+
+        <dt>$Nitter</dt>
+        <dd>4fSxCKc91ELQYVdv3tmHW8R15KoALPwEngyoQe1Xpump</dd>
+
+        <dt>ZEC</dt>
+        <dd>
+          u1vndfqtzyy6qkzhkapxelel7ams38wmfeccu3fdpy2wkuc4erxyjm8ncjhnyg747x6t0kf0faqhh2hxyplgaum08d2wnj4n7cyu9s6zhxkqw2aef4hgd4s6vh5hpqvfken98rg80kgtgn64ff70djy7s8f839z00hwhuzlcggvefhdlyszkvwy3c7yw623vw3rvar6q6evd3xcvveypt
+        </dd>
+      </dl>
+    </div>
 
     <hr />
     <footer>&mdash; zedeus, 25 August 2026</footer>
